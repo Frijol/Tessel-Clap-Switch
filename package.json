@@ -1,0 +1,25 @@
+{
+  "name": "dangling-string",
+  "version": "0.0.0",
+  "description": "A simple clap-on-clap-off switch for Tessel",
+  "keywords": ["ambient", "relay", "clap", "switch"],
+  "bugs": {
+    "url": "https://github.com/Frijol/Tessel-Clap-Switch/issues"
+  },
+  "author": "Kelsey Breseman <kelsey@technical.io> (http://ifoundthemeaningoflife.com)",
+  "contributors": [],
+  "main": "",
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/Tessel-Clap-Switch.git"
+  },
+  "dependencies": {
+    "relay-mono": "*",
+    "ambient-attx4": "*"
+  },
+  "engines": {
+    "node": ">=0.6.x"
+  },
+  "licenses": [{"type": "BSD 3-Clause License", "url": "http://www.opensource.org/licenses/BSD-3-Clause"}]
+}
